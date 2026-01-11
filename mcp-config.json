@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mcpnodefil": {
+      "command": "node",
+      "args": [
+        "c:/Users/USER/Desktop/aimcpproj/mcpnodefil/dist/mcp/index.js"
+      ],
+      "env": {
+        "MONGODB_URI": "mongodb://localhost:27017/mcpnodefil",
+        "PORT": "3000"
+      }
+    }
+  }
+}
